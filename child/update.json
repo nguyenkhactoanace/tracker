@@ -1,7 +1,7 @@
 {
-  "versionCode": 7,
-  "versionName": "0.3.0",
-  "fileName": "FamilyTracker-Child-v0.3.0-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/releases/child/FamilyTracker-Child-v0.3.0-debug.apk",
-  "notes": "Them nut kiem tra cap nhat thu cong cho app Child."
+  "versionCode": 9,
+  "versionName": "0.3.2",
+  "fileName": "FamilyTracker-Child-v0.3.2-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/releases/child/FamilyTracker-Child-v0.3.2-debug.apk",
+  "notes": "Chu dong gui lai vi tri khi may dung yen qua 15 phut de tranh heartbeat online nhung vi tri bi cu."
 }
