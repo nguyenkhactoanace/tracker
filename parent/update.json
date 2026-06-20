@@ -1,7 +1,7 @@
 {
-  "versionCode": 10,
-  "versionName": "0.3.3",
-  "fileName": "FamilyTracker-Parent-v0.3.3-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/releases/parent/FamilyTracker-Parent-v0.3.3-debug.apk",
-  "notes": "Sua canh bao trang thai: offline se bao mat heartbeat, chi bao GPS cu khi thiet bi van online."
+  "versionCode": 11,
+  "versionName": "0.3.4",
+  "fileName": "FamilyTracker-Parent-v0.3.4-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/releases/parent/FamilyTracker-Parent-v0.3.4-debug.apk",
+  "notes": "Them thong ke diem gui bu sau offline va khoang trong lon nhat trong hanh trinh."
 }

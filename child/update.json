@@ -1,7 +1,7 @@
 {
-  "versionCode": 9,
-  "versionName": "0.3.2",
-  "fileName": "FamilyTracker-Child-v0.3.2-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/releases/child/FamilyTracker-Child-v0.3.2-debug.apk",
-  "notes": "Chu dong gui lai vi tri khi may dung yen qua 15 phut de tranh heartbeat online nhung vi tri bi cu."
+  "versionCode": 11,
+  "versionName": "0.3.4",
+  "fileName": "FamilyTracker-Child-v0.3.4-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/releases/child/FamilyTracker-Child-v0.3.4-debug.apk",
+  "notes": "Them watchdog danh thuc service dinh ky de giam bi ColorOS dung nen."
 }
