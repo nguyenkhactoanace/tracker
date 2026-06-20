@@ -1,7 +1,7 @@
 {
-  "versionCode": 12,
-  "versionName": "0.3.5",
-  "fileName": "FamilyTracker-Child-v0.3.5-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/releases/child/FamilyTracker-Child-v0.3.5-debug.apk",
-  "notes": "Rut gon noi dung thong bao nen thanh: Vi tri duoc cap nhat."
+  "versionCode": 14,
+  "versionName": "0.3.7",
+  "fileName": "FamilyTracker-Child-v0.3.7-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/releases/child/FamilyTracker-Child-v0.3.7-debug.apk",
+  "notes": "Tăng tần suất gửi vị trí khi di chuyển lên 30 giây, Việt hóa giao diện và giữ dữ liệu offline 20 ngày."
 }

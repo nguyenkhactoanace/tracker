@@ -1,7 +1,7 @@
 {
-  "versionCode": 13,
-  "versionName": "0.3.6",
-  "fileName": "FamilyTracker-Parent-v0.3.6-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/releases/parent/FamilyTracker-Parent-v0.3.6-debug.apk",
-  "notes": "Loc diem hanh trinh qua xa vi tri hien tai de tranh du lieu test/outlier lam ban do nhay sai."
+  "versionCode": 14,
+  "versionName": "0.3.7",
+  "fileName": "FamilyTracker-Parent-v0.3.7-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/releases/parent/FamilyTracker-Parent-v0.3.7-debug.apk",
+  "notes": "Việt hóa giao diện và hỗ trợ hiển thị dữ liệu hành trình sau khi lọc/lấy mẫu."
 }
