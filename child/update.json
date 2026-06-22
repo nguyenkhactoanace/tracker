@@ -1,7 +1,7 @@
 {
-  "versionCode": 26,
-  "versionName": "0.4.9",
-  "fileName": "FamilyTracker-Child-v0.4.9-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/releases/child/FamilyTracker-Child-v0.4.9-debug.apk",
-  "notes": "Tự khởi động lại dịch vụ sau khi cài đặt bản cập nhật (không cần mở app thủ công)."
+  "versionCode": 27,
+  "versionName": "0.5.0",
+  "fileName": "FamilyTracker-Child-v0.5.0-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/releases/child/FamilyTracker-Child-v0.5.0-debug.apk",
+  "notes": "Sửa lỗi nhật ký tắt app bị ghi trùng lặp. Nhận diện đúng ColorOS Battery Cleaner force-stop."
 }
