@@ -1,7 +1,7 @@
 {
-  "versionCode": 16,
-  "versionName": "0.3.9",
-  "fileName": "FamilyTracker-Parent-v0.3.9-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/releases/parent/FamilyTracker-Parent-v0.3.9-debug.apk",
-  "notes": "Cập nhật giao diện tối (Dark mode), xem lịch sử hành trình chi tiết, bộ lọc thời gian tùy chỉnh và sửa lỗi đồng bộ dữ liệu."
+  "versionCode": 17,
+  "versionName": "0.4.0",
+  "fileName": "FamilyTracker-Parent-v0.4.0-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/releases/parent/FamilyTracker-Parent-v0.4.0-debug.apk",
+  "notes": "Chuyển giao diện sáng (Light mode), hiển thị tên vị trí/địa chỉ thay vì tọa độ, tải danh sách bé động từ database, mở rộng khung bản đồ và danh sách lịch sử."
 }

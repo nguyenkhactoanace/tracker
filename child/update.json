@@ -1,7 +1,7 @@
 {
-  "versionCode": 16,
-  "versionName": "0.3.9",
-  "fileName": "FamilyTracker-Child-v0.3.9-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/releases/child/FamilyTracker-Child-v0.3.9-debug.apk",
-  "notes": "Sửa lỗi trùng lặp dữ liệu bằng enqueueUniqueWork và cải tiến đồng bộ dữ liệu."
+  "versionCode": 17,
+  "versionName": "0.4.0",
+  "fileName": "FamilyTracker-Child-v0.4.0-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/releases/child/FamilyTracker-Child-v0.4.0-debug.apk",
+  "notes": "Đồng bộ nâng cấp phiên bản hệ thống lên v0.4.0."
 }
