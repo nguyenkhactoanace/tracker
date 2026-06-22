@@ -1,7 +1,7 @@
 {
-  "versionCode": 30,
-  "versionName": "0.5.3",
-  "fileName": "FamilyTracker-Child-v0.5.3-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/releases/child/FamilyTracker-Child-v0.5.3-debug.apk",
-  "notes": "Sửa lỗi không cập nhật tọa độ khi di chuyển sau khi ứng dụng bị OPPO kill/restart (khôi phục vị trí lưu trước đó)."
+  "versionCode": 31,
+  "versionName": "0.5.4",
+  "fileName": "FamilyTracker-Child-v0.5.4-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/releases/child/FamilyTracker-Child-v0.5.4-debug.apk",
+  "notes": "Thêm ô nhập Token con ngay trên màn hình app — có thể đổi sang thiết bị con khác mà không cần cài lại app."
 }
