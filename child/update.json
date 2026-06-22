@@ -1,7 +1,7 @@
 {
-  "versionCode": 29,
-  "versionName": "0.5.2",
-  "fileName": "FamilyTracker-Child-v0.5.2-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/releases/child/FamilyTracker-Child-v0.5.2-debug.apk",
-  "notes": "Sửa lỗi mất tọa độ offline: tọa độ giờ được lưu local trước, SyncWorker upload nền sau — đảm bảo không mất dữ liệu khi mạng yếu."
+  "versionCode": 30,
+  "versionName": "0.5.3",
+  "fileName": "FamilyTracker-Child-v0.5.3-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/releases/child/FamilyTracker-Child-v0.5.3-debug.apk",
+  "notes": "Sửa lỗi không cập nhật tọa độ khi di chuyển sau khi ứng dụng bị OPPO kill/restart (khôi phục vị trí lưu trước đó)."
 }
