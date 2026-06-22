@@ -1,7 +1,7 @@
 {
-  "versionCode": 25,
-  "versionName": "0.4.8",
-  "fileName": "FamilyTracker-Child-v0.4.8-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/releases/child/FamilyTracker-Child-v0.4.8-debug.apk",
-  "notes": "Sửa lỗi app bị tắt lâu không tự khởi động lại trên OPPO/Realme. Thêm KeepAlive 15 phút và exact alarm để đảm bảo dịch vụ luôn chạy."
+  "versionCode": 26,
+  "versionName": "0.4.9",
+  "fileName": "FamilyTracker-Child-v0.4.9-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/releases/child/FamilyTracker-Child-v0.4.9-debug.apk",
+  "notes": "Tự khởi động lại dịch vụ sau khi cài đặt bản cập nhật (không cần mở app thủ công)."
 }
