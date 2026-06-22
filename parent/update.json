@@ -1,7 +1,7 @@
 {
-  "versionCode": 19,
-  "versionName": "0.4.2",
-  "fileName": "FamilyTracker-Parent-v0.4.2-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/releases/parent/FamilyTracker-Parent-v0.4.2-debug.apk",
-  "notes": "Sửa lỗi không hiển thị khung chọn thời gian khi chuyển trực tiếp từ chế độ Trực tiếp sang Tùy chỉnh."
+  "versionCode": 20,
+  "versionName": "0.4.3",
+  "fileName": "FamilyTracker-Parent-v0.4.3-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/releases/parent/FamilyTracker-Parent-v0.4.3-debug.apk",
+  "notes": "Ẩn ứng dụng Child khỏi danh sách Recent Apps để tăng tính bảo mật."
 }
