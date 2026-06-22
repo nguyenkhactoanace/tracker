@@ -1,7 +1,7 @@
 {
-  "versionCode": 20,
-  "versionName": "0.4.3",
-  "fileName": "FamilyTracker-Child-v0.4.3-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/releases/child/FamilyTracker-Child-v0.4.3-debug.apk",
-  "notes": "Ẩn ứng dụng khỏi danh sách Recent Apps để tăng tính bảo mật."
+  "versionCode": 21,
+  "versionName": "0.4.4",
+  "fileName": "FamilyTracker-Child-v0.4.4-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/releases/child/FamilyTracker-Child-v0.4.4-debug.apk",
+  "notes": "Ghi nhận lý do ứng dụng Child bị dừng (hệ thống tắt, pin, crash...) và hiển thị trên giao diện Parent."
 }
