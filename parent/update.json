@@ -1,7 +1,7 @@
 {
-  "versionCode": 22,
-  "versionName": "0.4.5",
-  "fileName": "FamilyTracker-Parent-v0.4.5-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/releases/parent/FamilyTracker-Parent-v0.4.5-debug.apk",
-  "notes": "Sửa lỗi giao diện hiển thị danh sách nhật ký tắt app trên Parent."
+  "versionCode": 23,
+  "versionName": "0.4.6",
+  "fileName": "FamilyTracker-Parent-v0.4.6-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/releases/parent/FamilyTracker-Parent-v0.4.6-debug.apk",
+  "notes": "Sửa lỗi chiều cao hiển thị của thẻ nhật ký tắt app trên Parent."
 }
