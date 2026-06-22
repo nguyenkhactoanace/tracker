@@ -1,7 +1,7 @@
 {
-  "versionCode": 24,
-  "versionName": "0.4.7",
-  "fileName": "FamilyTracker-Parent-v0.4.7-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/releases/parent/FamilyTracker-Parent-v0.4.7-debug.apk",
-  "notes": "Gộp thông tin vị trí và nhật ký tắt app vào 1 khung với 2 tab gọn gàng."
+  "versionCode": 25,
+  "versionName": "0.4.8",
+  "fileName": "FamilyTracker-Parent-v0.4.8-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/releases/parent/FamilyTracker-Parent-v0.4.8-debug.apk",
+  "notes": "Lọc bỏ các tọa độ đứng yên liên tiếp (chênh lệch dưới 3m) tránh làm rối mắt trên bản đồ và timeline."
 }
