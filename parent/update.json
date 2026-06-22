@@ -1,7 +1,7 @@
 {
-  "versionCode": 17,
-  "versionName": "0.4.0",
-  "fileName": "FamilyTracker-Parent-v0.4.0-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/releases/parent/FamilyTracker-Parent-v0.4.0-debug.apk",
-  "notes": "Chuyển giao diện sáng (Light mode), hiển thị tên vị trí/địa chỉ thay vì tọa độ, tải danh sách bé động từ database, mở rộng khung bản đồ và danh sách lịch sử."
+  "versionCode": 18,
+  "versionName": "0.4.1",
+  "fileName": "FamilyTracker-Parent-v0.4.1-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/releases/parent/FamilyTracker-Parent-v0.4.1-debug.apk",
+  "notes": "Tự động ẩn bảng thời gian tùy chỉnh sau khi nhấn nút Xem hành trình, tăng kích thước vùng hiển thị danh sách và cập nhật ID mặc định mới."
 }
