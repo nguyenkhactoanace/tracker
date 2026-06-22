@@ -1,7 +1,7 @@
 {
-  "versionCode": 27,
-  "versionName": "0.5.0",
-  "fileName": "FamilyTracker-Child-v0.5.0-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/releases/child/FamilyTracker-Child-v0.5.0-debug.apk",
-  "notes": "Sửa lỗi nhật ký tắt app bị ghi trùng lặp. Nhận diện đúng ColorOS Battery Cleaner force-stop."
+  "versionCode": 28,
+  "versionName": "0.5.1",
+  "fileName": "FamilyTracker-Child-v0.5.1-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/releases/child/FamilyTracker-Child-v0.5.1-debug.apk",
+  "notes": "Sửa lỗi quan trọng: heartbeat bị thất bại do chạy sai thread. Đây là nguyên nhân chính khiến thiết bị hiện Offline dù đang chạy."
 }
