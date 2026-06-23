@@ -2,6 +2,6 @@
   "versionCode": 27,
   "versionName": "0.5.0",
   "fileName": "FamilyTracker-Parent-v0.5.0-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/releases/parent/FamilyTracker-Parent-v0.5.0-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/parent/FamilyTracker-Parent-v0.5.0-debug.apk",
   "notes": "Sửa lỗi lịch sử tắt app không cập nhật khi chuyển child. Luôn fetch events khi chuyển child tab hoặc mở tab lịch sử."
 }
