@@ -1,7 +1,7 @@
 {
-  "versionCode": 33,
-  "versionName": "0.5.6",
-  "fileName": "FamilyTracker-Child-v0.5.6-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/releases/child/FamilyTracker-Child-v0.5.6-debug.apk",
-  "notes": "Đẩy title xuống khỏi thanh trạng thái, bỏ nút cấp quyền vị trí, hiển thị tên con sau khi ghép nối."
+  "versionCode": 34,
+  "versionName": "0.5.7",
+  "fileName": "FamilyTracker-Child-v0.5.7-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/releases/child/FamilyTracker-Child-v0.5.7-debug.apk",
+  "notes": "Phát hiện boot khi KeepAliveWorker restart (dựa vào last location cũ >30 phút). Xóa events local sau khi gửi lên server thành công để tránh trùng lặp."
 }
