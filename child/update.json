@@ -1,7 +1,7 @@
 {
-  "versionCode": 32,
-  "versionName": "0.5.5",
-  "fileName": "FamilyTracker-Child-v0.5.5-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/releases/child/FamilyTracker-Child-v0.5.5-debug.apk",
-  "notes": "Bỏ ô nhập token công khai — thay bằng cơ chế 5-tap + PIN (token phụ huynh) để chọn child từ danh sách. Cập nhật giao diện."
+  "versionCode": 33,
+  "versionName": "0.5.6",
+  "fileName": "FamilyTracker-Child-v0.5.6-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/releases/child/FamilyTracker-Child-v0.5.6-debug.apk",
+  "notes": "Đẩy title xuống khỏi thanh trạng thái, bỏ nút cấp quyền vị trí, hiển thị tên con sau khi ghép nối."
 }
