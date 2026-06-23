@@ -1,7 +1,7 @@
 {
-  "versionCode": 36,
-  "versionName": "0.5.9",
-  "fileName": "FamilyTracker-Child-v0.5.9-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/child/FamilyTracker-Child-v0.5.9-debug.apk",
-  "notes": "Sửa KeepAliveWorker: đợi setForegroundAsync().get() hoàn thành trước khi start service. Thêm log + retry khi thất bại. Fix lỗi không tự khởi động sau reboot."
+  "versionCode": 37,
+  "versionName": "0.6.0",
+  "fileName": "FamilyTracker-Child-v0.6.0-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/child/FamilyTracker-Child-v0.6.0-debug.apk",
+  "notes": "Thêm TIME_SET/TIMEZONE_CHANGED trigger cho auto-start (OPPO thường chặn BOOT_COMPLETED). Thêm nút mở cài đặt OPPO Startup Manager. Thêm diagnostic hiển thị broadcast boot cuối cùng. Fix setForegroundAsync chờ .get()."
 }
