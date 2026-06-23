@@ -1,7 +1,7 @@
 {
-  "versionCode": 40,
-  "versionName": "0.6.3",
-  "fileName": "FamilyTracker-Child-v0.6.3-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/child/FamilyTracker-Child-v0.6.3-debug.apk",
-  "notes": "Thử fix OPPO auto-start: xóa excludeFromRecents (có thể gây OPPO chặn broadcast), thêm directBootAware cho BootReceiver."
+  "versionCode": 41,
+  "versionName": "0.6.4",
+  "fileName": "FamilyTracker-Child-v0.6.4-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/child/FamilyTracker-Child-v0.6.4-debug.apk",
+  "notes": "Thêm POWER_CONNECTED/DISCONNECTED làm trigger auto-start (cắm sạc sau reboot). Thêm dialog yêu cầu bỏ battery optimization khi mở app. Sửa service bị OPPO kill trong 1 giây."
 }
