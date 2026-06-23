@@ -1,7 +1,7 @@
 {
-  "versionCode": 38,
-  "versionName": "0.6.1",
-  "fileName": "FamilyTracker-Child-v0.6.1-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/child/FamilyTracker-Child-v0.6.1-debug.apk",
-  "notes": "Thêm Diagnostics: ghi log mọi sự kiện (BootReceiver, Service, KeepAlive, Watchdog) vào bộ nhớ. Hiển thị log scrollable trong app. Xem được chính xác broadcast nào đã nhận, service có start được không."
+  "versionCode": 39,
+  "versionName": "0.6.2",
+  "fileName": "FamilyTracker-Child-v0.6.2-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/child/FamilyTracker-Child-v0.6.2-debug.apk",
+  "notes": "Đơn giản hóa cơ chế auto-start: KeepAliveWorker thử direct start trước, chỉ dùng setForegroundAsync khi cần. Xóa enqueueImmediate. Thêm try-catch toàn bộ. Diagnostic log đầy đủ để debug."
 }
