@@ -1,7 +1,7 @@
 {
-  "versionCode": 39,
-  "versionName": "0.6.2",
-  "fileName": "FamilyTracker-Child-v0.6.2-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/child/FamilyTracker-Child-v0.6.2-debug.apk",
-  "notes": "Đơn giản hóa cơ chế auto-start: KeepAliveWorker thử direct start trước, chỉ dùng setForegroundAsync khi cần. Xóa enqueueImmediate. Thêm try-catch toàn bộ. Diagnostic log đầy đủ để debug."
+  "versionCode": 40,
+  "versionName": "0.6.3",
+  "fileName": "FamilyTracker-Child-v0.6.3-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/child/FamilyTracker-Child-v0.6.3-debug.apk",
+  "notes": "Thử fix OPPO auto-start: xóa excludeFromRecents (có thể gây OPPO chặn broadcast), thêm directBootAware cho BootReceiver."
 }
