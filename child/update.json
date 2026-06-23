@@ -1,7 +1,7 @@
 {
-  "versionCode": 37,
-  "versionName": "0.6.0",
-  "fileName": "FamilyTracker-Child-v0.6.0-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/child/FamilyTracker-Child-v0.6.0-debug.apk",
-  "notes": "Thêm TIME_SET/TIMEZONE_CHANGED trigger cho auto-start (OPPO thường chặn BOOT_COMPLETED). Thêm nút mở cài đặt OPPO Startup Manager. Thêm diagnostic hiển thị broadcast boot cuối cùng. Fix setForegroundAsync chờ .get()."
+  "versionCode": 38,
+  "versionName": "0.6.1",
+  "fileName": "FamilyTracker-Child-v0.6.1-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/child/FamilyTracker-Child-v0.6.1-debug.apk",
+  "notes": "Thêm Diagnostics: ghi log mọi sự kiện (BootReceiver, Service, KeepAlive, Watchdog) vào bộ nhớ. Hiển thị log scrollable trong app. Xem được chính xác broadcast nào đã nhận, service có start được không."
 }
