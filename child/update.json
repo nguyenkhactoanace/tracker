@@ -1,7 +1,7 @@
 {
-  "versionCode": 35,
-  "versionName": "0.5.8",
-  "fileName": "FamilyTracker-Child-v0.5.8-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/child/FamilyTracker-Child-v0.5.8-debug.apk",
-  "notes": "Sửa lỗi không tự khởi động sau khi reboot máy (Android 12+): dùng WorkManager thay startForegroundService trực tiếp từ BootReceiver. Thêm directBootAware. KeepAliveWorker/ Watchdog đều an toàn trên Android 12+."
+  "versionCode": 36,
+  "versionName": "0.5.9",
+  "fileName": "FamilyTracker-Child-v0.5.9-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/child/FamilyTracker-Child-v0.5.9-debug.apk",
+  "notes": "Sửa KeepAliveWorker: đợi setForegroundAsync().get() hoàn thành trước khi start service. Thêm log + retry khi thất bại. Fix lỗi không tự khởi động sau reboot."
 }
