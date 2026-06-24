@@ -1,7 +1,7 @@
 {
-  "versionCode": 44,
-  "versionName": "0.6.7",
-  "fileName": "FamilyTracker-Child-v0.6.7-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/child/FamilyTracker-Child-v0.6.7-debug.apk",
-  "notes": "BootStartWorker fix auto-start + Lịch sử hoạt động toàn diện: gửi diagnostic log (khởi động, GPS, watchdog) lên backend mỗi 2ph. Parent tab đổi thành 'Lịch sử hoạt động' + nút Copy."
+  "versionCode": 45,
+  "versionName": "0.6.8",
+  "fileName": "FamilyTracker-Child-v0.6.8-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/child/FamilyTracker-Child-v0.6.8-debug.apk",
+  "notes": "Fix race condition: diagnostic event giờ được batched cùng exit event (ghi trước khi gửi). Sửa text rỗng trong lịch sử hoạt động."
 }
