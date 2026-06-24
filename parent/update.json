@@ -1,7 +1,7 @@
 {
-  "versionCode": 28,
-  "versionName": "0.5.1",
-  "fileName": "FamilyTracker-Parent-v0.5.1-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/parent/FamilyTracker-Parent-v0.5.1-debug.apk",
-  "notes": "Thêm token login/logout: nhập parent token lần đầu, lưu lại, nút Đăng xuất để đổi token. Không còn hardcode parent_test_token_123."
+  "versionCode": 29,
+  "versionName": "0.5.2",
+  "fileName": "FamilyTracker-Parent-v0.5.2-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/parent/FamilyTracker-Parent-v0.5.2-debug.apk",
+  "notes": "Thêm nút Cập nhật thủ công. Fix label hiển thị sai tên khi chuyển child ở chế độ lịch sử. Token login/logout."
 }

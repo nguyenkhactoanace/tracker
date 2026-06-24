@@ -1,7 +1,7 @@
 {
-  "versionCode": 42,
-  "versionName": "0.6.5",
-  "fileName": "FamilyTracker-Child-v0.6.5-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/child/FamilyTracker-Child-v0.6.5-debug.apk",
-  "notes": "Fix GPS âm thầm mất callback trên OPPO: thêm watchdog tự động re-register location sau 5ph nếu không nhận được GPS. Thêm Diagnostic log GPS."
+  "versionCode": 43,
+  "versionName": "0.6.6",
+  "fileName": "FamilyTracker-Child-v0.6.6-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/child/FamilyTracker-Child-v0.6.6-debug.apk",
+  "notes": "GPS watchdog v2: khi OPPO chặn continuous callback, watchdog gọi getCurrentLocation trực tiếp (balanced accuracy) để bypass block. Fallback 3 lớp: balanced → high accuracy → lastKnown."
 }
