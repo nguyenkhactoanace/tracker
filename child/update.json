@@ -1,7 +1,7 @@
 {
-  "versionCode": 43,
-  "versionName": "0.6.6",
-  "fileName": "FamilyTracker-Child-v0.6.6-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/child/FamilyTracker-Child-v0.6.6-debug.apk",
-  "notes": "GPS watchdog v2: khi OPPO chặn continuous callback, watchdog gọi getCurrentLocation trực tiếp (balanced accuracy) để bypass block. Fallback 3 lớp: balanced → high accuracy → lastKnown."
+  "versionCode": 44,
+  "versionName": "0.6.7",
+  "fileName": "FamilyTracker-Child-v0.6.7-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/child/FamilyTracker-Child-v0.6.7-debug.apk",
+  "notes": "Fix tự khởi động sau reboot: dùng WorkManager BootStartWorker + setForegroundAsync thay vì startForegroundService trực tiếp (bị Android 12+ cấm). GPS watchdog v2 + one-shot fallback."
 }
