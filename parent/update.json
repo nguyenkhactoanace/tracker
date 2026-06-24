@@ -1,7 +1,7 @@
 {
-  "versionCode": 32,
-  "versionName": "0.5.5",
-  "fileName": "FamilyTracker-Parent-v0.5.5-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/parent/FamilyTracker-Parent-v0.5.5-debug.apk",
-  "notes": "Refactor: tách ParentMapView + HistoryProcessor, ParentActivity giảm 1500→700 dòng. Token login + nút Cập nhật + fix label + Copy."
+  "versionCode": 33,
+  "versionName": "0.6.0",
+  "fileName": "FamilyTracker-Parent-v0.6.0-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/parent/FamilyTracker-Parent-v0.6.0-debug.apk",
+  "notes": "Nhớ child đã chọn lần trước. Auto-refresh danh sách con mỗi 5 phút. Map auto-center khi Live. Token login + nút Cập nhật + Copy log."
 }
