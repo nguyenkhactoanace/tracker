@@ -1,7 +1,7 @@
 {
-  "versionCode": 30,
-  "versionName": "0.5.3",
-  "fileName": "FamilyTracker-Parent-v0.5.3-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/parent/FamilyTracker-Parent-v0.5.3-debug.apk",
-  "notes": "Tab 'Lịch sử hoạt động' thay 'Lịch sử tắt': hiển thị toàn bộ diagnostic log từ child (khởi động, GPS, watchdog). Thêm nút Copy tất cả vào clipboard. Token login/logout + nút Cập nhật thủ công + fix label."
+  "versionCode": 31,
+  "versionName": "0.5.4",
+  "fileName": "FamilyTracker-Parent-v0.5.4-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/parent/FamilyTracker-Parent-v0.5.4-debug.apk",
+  "notes": "Fix nút Copy: lấy đúng index view. Tab Lịch sử hoạt động + token login + nút Cập nhật."
 }
