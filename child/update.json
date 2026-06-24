@@ -3,5 +3,5 @@
   "versionName": "0.6.7",
   "fileName": "FamilyTracker-Child-v0.6.7-debug.apk",
   "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/child/FamilyTracker-Child-v0.6.7-debug.apk",
-  "notes": "Fix tự khởi động sau reboot: dùng WorkManager BootStartWorker + setForegroundAsync thay vì startForegroundService trực tiếp (bị Android 12+ cấm). GPS watchdog v2 + one-shot fallback."
+  "notes": "BootStartWorker fix auto-start + Lịch sử hoạt động toàn diện: gửi diagnostic log (khởi động, GPS, watchdog) lên backend mỗi 2ph. Parent tab đổi thành 'Lịch sử hoạt động' + nút Copy."
 }
