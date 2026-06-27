@@ -1,7 +1,7 @@
 {
-  "versionCode": 48,
-  "versionName": "0.6.11",
-  "fileName": "FamilyTracker-Child-v0.6.11-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/child/FamilyTracker-Child-v0.6.11-debug.apk",
-  "notes": "Ưu tiên upload tọa độ mới nhất trước backlog để Parent cập nhật vị trí ngay; các điểm lịch sử vẫn được đồng bộ sau đó."
+  "versionCode": 49,
+  "versionName": "0.6.12",
+  "fileName": "FamilyTracker-Child-v0.6.12-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/child/FamilyTracker-Child-v0.6.12-debug.apk",
+  "notes": "Khởi tạo lại job đồng bộ vị trí sau nâng cấp, bỏ trạng thái retry/backoff cũ; ưu tiên gửi tọa độ hiện tại trước backlog."
 }
