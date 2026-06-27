@@ -1,7 +1,7 @@
 {
-  "versionCode": 51,
-  "versionName": "0.6.14",
-  "fileName": "FamilyTracker-Child-v0.6.14-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/child/FamilyTracker-Child-v0.6.14-debug.apk",
-  "notes": "Sau khi lưu SQLite, gửi ngay batch tọa độ mới nhất bằng background thread; WorkManager vẫn giữ vai trò retry và đồng bộ backlog."
+  "versionCode": 52,
+  "versionName": "0.6.15",
+  "fileName": "FamilyTracker-Child-v0.6.15-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/child/FamilyTracker-Child-v0.6.15-debug.apk",
+  "notes": "Không để dữ liệu NaN/Infinity trong SQLite chặn upload; thêm Diagnostic Log chi tiết cho lỗi JSON, kết nối và HTTP backend."
 }
