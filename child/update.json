@@ -1,7 +1,7 @@
 {
-  "versionCode": 50,
-  "versionName": "0.6.13",
-  "fileName": "FamilyTracker-Child-v0.6.13-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/child/FamilyTracker-Child-v0.6.13-debug.apk",
-  "notes": "Sửa tự khởi động sau reboot: không khởi tạo WorkManager trong Direct Boot; chờ USER_UNLOCKED rồi mới đọc cấu hình và khởi động tracking."
+  "versionCode": 51,
+  "versionName": "0.6.14",
+  "fileName": "FamilyTracker-Child-v0.6.14-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/child/FamilyTracker-Child-v0.6.14-debug.apk",
+  "notes": "Sau khi lưu SQLite, gửi ngay batch tọa độ mới nhất bằng background thread; WorkManager vẫn giữ vai trò retry và đồng bộ backlog."
 }
