@@ -1,7 +1,7 @@
 {
-  "versionCode": 46,
-  "versionName": "0.6.9",
-  "fileName": "FamilyTracker-Child-v0.6.9-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/child/FamilyTracker-Child-v0.6.9-debug.apk",
-  "notes": "Fix bug GPS kẹt tọa độ cũ: thêm stale check (bỏ qua vị trí >2 phút) + requestFreshLocation khi service khởi động lại."
+  "versionCode": 47,
+  "versionName": "0.6.10",
+  "fileName": "FamilyTracker-Child-v0.6.10-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/child/FamilyTracker-Child-v0.6.10-debug.apk",
+  "notes": "Sửa local queue bị tồn đọng làm Parent hiển thị tọa độ cũ; batch lịch sử không còn ghi đè vị trí mới; ẩn Child khỏi Recent Apps để tránh bị vuốt tắt task."
 }
