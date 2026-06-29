@@ -1,7 +1,7 @@
 {
-  "versionCode": 33,
-  "versionName": "0.6.0",
-  "fileName": "FamilyTracker-Parent-v0.6.0-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/parent/FamilyTracker-Parent-v0.6.0-debug.apk",
-  "notes": "Nhớ child đã chọn lần trước. Auto-refresh danh sách con mỗi 5 phút. Map auto-center khi Live. Token login + nút Cập nhật + Copy log."
+  "versionCode": 34,
+  "versionName": "0.6.1",
+  "fileName": "FamilyTracker-Parent-v0.6.1-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/parent/FamilyTracker-Parent-v0.6.1-debug.apk",
+  "notes": "Sửa ngày giờ trong danh sách điểm hành trình: hiển thị theo định dạng dd/MM/yyyy HH:mm:ss và múi giờ của thiết bị."
 }
