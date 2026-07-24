@@ -1,7 +1,7 @@
 {
-  "versionCode": 54,
-  "versionName": "0.6.17",
-  "fileName": "FamilyTracker-Child-v0.6.17-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/child/FamilyTracker-Child-v0.6.17-debug.apk",
-  "notes": "Làm sạch diagnostic gửi lên Parent: chống gửi trùng, giảm GPS callback noise, ưu tiên log lưu local/sync/network để dễ tìm nguyên nhân offline."
+  "versionCode": 55,
+  "versionName": "0.6.18",
+  "fileName": "FamilyTracker-Child-v0.6.18-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/child/FamilyTracker-Child-v0.6.18-debug.apk",
+  "notes": "Sửa log tracking gây hiểu nhầm: chỉ báo service bắt đầu khi instance thật sự mới, watchdog/keepalive chỉ kiểm tra nếu service đang chạy."
 }
