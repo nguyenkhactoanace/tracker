@@ -1,7 +1,7 @@
 {
-  "versionCode": 52,
-  "versionName": "0.6.15",
-  "fileName": "FamilyTracker-Child-v0.6.15-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/child/FamilyTracker-Child-v0.6.15-debug.apk",
-  "notes": "Không để dữ liệu NaN/Infinity trong SQLite chặn upload; thêm Diagnostic Log chi tiết cho lỗi JSON, kết nối và HTTP backend."
+  "versionCode": 53,
+  "versionName": "0.6.16",
+  "fileName": "FamilyTracker-Child-v0.6.16-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/child/FamilyTracker-Child-v0.6.16-debug.apk",
+  "notes": "Thêm hộp đen diagnostic cho offline/OPPO: log file nội bộ, bảng quản trị ẩn sau xác thực parent token, sync ngay khi mở app và gửi log quan trọng lên Parent."
 }
