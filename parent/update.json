@@ -1,7 +1,7 @@
 {
-  "versionCode": 35,
-  "versionName": "0.6.2",
-  "fileName": "FamilyTracker-Parent-v0.6.2-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/parent/FamilyTracker-Parent-v0.6.2-debug.apk",
-  "notes": "Tăng số dòng Lịch sử hoạt động để xem nhiều diagnostic log hơn từ máy con."
+  "versionCode": 36,
+  "versionName": "0.6.3",
+  "fileName": "FamilyTracker-Parent-v0.6.3-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/parent/FamilyTracker-Parent-v0.6.3-debug.apk",
+  "notes": "Làm gọn Lịch sử hoạt động: lọc dòng trùng và đặt nhãn dễ hiểu cho GPS, đồng bộ, mạng/backend, dịch vụ tracking."
 }

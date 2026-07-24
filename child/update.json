@@ -1,7 +1,7 @@
 {
-  "versionCode": 53,
-  "versionName": "0.6.16",
-  "fileName": "FamilyTracker-Child-v0.6.16-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/child/FamilyTracker-Child-v0.6.16-debug.apk",
-  "notes": "Thêm hộp đen diagnostic cho offline/OPPO: log file nội bộ, bảng quản trị ẩn sau xác thực parent token, sync ngay khi mở app và gửi log quan trọng lên Parent."
+  "versionCode": 54,
+  "versionName": "0.6.17",
+  "fileName": "FamilyTracker-Child-v0.6.17-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/child/FamilyTracker-Child-v0.6.17-debug.apk",
+  "notes": "Làm sạch diagnostic gửi lên Parent: chống gửi trùng, giảm GPS callback noise, ưu tiên log lưu local/sync/network để dễ tìm nguyên nhân offline."
 }
