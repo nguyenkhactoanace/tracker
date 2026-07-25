@@ -1,7 +1,7 @@
 {
-  "versionCode": 40,
-  "versionName": "0.6.7",
-  "fileName": "FamilyTracker-Parent-v0.6.7-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/refs/heads/main/parent/FamilyTracker-Parent-v0.6.7-debug.apk",
-  "notes": "Sửa xuất file log: lưu file vào Download/FamilyTrackerLogs, thêm dấu HẾT LOG và thống kê để phát hiện file bị cụt."
+  "versionCode": 41,
+  "versionName": "0.6.8",
+  "fileName": "FamilyTracker-Parent-v0.6.8-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/refs/heads/main/parent/FamilyTracker-Parent-v0.6.8-debug.apk",
+  "notes": "Sửa nhãn Activity Log GPS: phân biệt đã lưu local, chờ tọa độ mới và khôi phục GPS listener."
 }
