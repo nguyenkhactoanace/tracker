@@ -2,6 +2,6 @@
   "versionCode": 39,
   "versionName": "0.6.6",
   "fileName": "FamilyTracker-Parent-v0.6.6-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/main/parent/FamilyTracker-Parent-v0.6.6-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/refs/heads/main/parent/FamilyTracker-Parent-v0.6.6-debug.apk",
   "notes": "Thêm nút xuất Lịch sử hoạt động thành file .txt để gửi log đầy đủ qua Zalo hoặc ứng dụng khác."
 }
