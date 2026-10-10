@@ -1,7 +1,7 @@
 {
-  "versionCode": 41,
-  "versionName": "0.6.8",
-  "fileName": "FamilyTracker-Parent-v0.6.8-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/refs/heads/main/parent/FamilyTracker-Parent-v0.6.8-debug.apk",
-  "notes": "Sửa nhãn Activity Log GPS: phân biệt đã lưu local, chờ tọa độ mới và khôi phục GPS listener."
+  "versionCode": 42,
+  "versionName": "0.6.9",
+  "fileName": "FamilyTracker-Parent-v0.6.9-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/refs/heads/main/parent/FamilyTracker-Parent-v0.6.9-debug.apk",
+  "notes": "Sửa nền bản đồ bị lỗi API KEY REQUIRED: bỏ tile CARTO nay cần API key, dùng lớp nền miễn phí và tự chuyển dự phòng khi tile lỗi."
 }
