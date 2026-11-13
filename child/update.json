@@ -1,7 +1,7 @@
 {
-  "versionCode": 57,
-  "versionName": "0.6.20",
-  "fileName": "FamilyTracker-Child-v0.6.20-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/refs/heads/main/child/FamilyTracker-Child-v0.6.20-debug.apk",
-  "notes": "Ghi log exit/crash/kill theo đúng thời điểm hệ thống kết thúc app, kèm reasonCode, status, importance và thời gian phát hiện sau khi app khởi động lại."
+  "versionCode": 58,
+  "versionName": "0.6.21",
+  "fileName": "FamilyTracker-Child-v0.6.21-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/refs/heads/main/child/FamilyTracker-Child-v0.6.21-debug.apk",
+  "notes": "Chống crash và tự khởi động lại: bọc an toàn callback GPS, xử lý vị trí trên thread nền, bắt crash kèm stack trace và hẹn giờ khởi động lại sau 3 giây, báo watchdog/BootStart lên Parent."
 }
