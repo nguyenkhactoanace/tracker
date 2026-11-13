@@ -1,7 +1,7 @@
 {
-  "versionCode": 58,
-  "versionName": "0.6.21",
-  "fileName": "FamilyTracker-Child-v0.6.21-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/refs/heads/main/child/FamilyTracker-Child-v0.6.21-debug.apk",
-  "notes": "Chống crash và tự khởi động lại: bọc an toàn callback GPS, xử lý vị trí trên thread nền, bắt crash kèm stack trace và hẹn giờ khởi động lại sau 3 giây, báo watchdog/BootStart lên Parent."
+  "versionCode": 59,
+  "versionName": "0.6.22",
+  "fileName": "FamilyTracker-Child-v0.6.22-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/nguyenkhactoanace/tracker/refs/heads/main/child/FamilyTracker-Child-v0.6.22-debug.apk",
+  "notes": "Ưu tiên GPS thật: bỏ hoàn toàn vị trí ước lượng từ trạm phát sóng/WiFi (sai số > 100 m), chỉ lưu fix GPS chính xác. Ghi lại cấu hình quyền vị trí mỗi lần service khởi động. Giữ queue offline 60 ngày."
 }
